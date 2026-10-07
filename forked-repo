@@ -1,0 +1,3 @@
+curl -s https://api.github.com/repos/ihumure01/simple-interest-calculator | grep -E '"fork"|"parent"|"full_name"'
+  "full_name": "ihumure01/simple-interest-calculator",
+  "fork": false,
